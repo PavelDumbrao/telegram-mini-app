@@ -1,0 +1,17 @@
+{
+  "id": "001",
+  "created_at": "2026-01-12T11:00:00Z",
+  "priority": "high",
+  "title": "Create README for backend directory",
+  "description": "Create a simple README.md file in backend/ directory with project description and setup instructions",
+  "files_to_modify": [
+    "backend/README.md"
+  ],
+  "requirements": [
+    "Create backend/ directory if it doesn't exist",
+    "Create README.md with project title",
+    "Add section with setup instructions",
+    "Add section describing the project structure"
+  ],
+  "expected_result": "backend/README.md file created with all required sections"
+}
